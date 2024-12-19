@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Akib-1281742||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51B29DC-E439-4D73-B50A-A958705667A1}|Akib-1281742\\Akib-1281742.csproj|d:\\r59\\m3\\projects\\tosend\\1281742\\akib-1281742\\tests\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51B29DC-E439-4D73-B50A-A958705667A1}|Akib-1281742\\Akib-1281742.csproj|solutionrelative:akib-1281742\\tests\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51B29DC-E439-4D73-B50A-A958705667A1}|Akib-1281742\\Akib-1281742.csproj|D:\\R59\\M3\\Projects\\ToSend\\1281742\\akib-1281742\\tests\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51B29DC-E439-4D73-B50A-A958705667A1}|Akib-1281742\\Akib-1281742.csproj|solutionrelative:akib-1281742\\tests\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51B29DC-E439-4D73-B50A-A958705667A1}|Akib-1281742\\Akib-1281742.csproj|D:\\R59\\M3\\Projects\\ToSend\\1281742\\akib-1281742\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51B29DC-E439-4D73-B50A-A958705667A1}|Akib-1281742\\Akib-1281742.csproj|solutionrelative:akib-1281742\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51B29DC-E439-4D73-B50A-A958705667A1}|Akib-1281742\\Akib-1281742.csproj|d:\\r59\\m3\\projects\\tosend\\1281742\\akib-1281742\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Akib-1281742",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Akib-1281742.csproj",
+              "RelativeDocumentMoniker": "Akib-1281742\\Akib-1281742.csproj",
+              "ToolTip": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Akib-1281742.csproj",
+              "RelativeToolTip": "Akib-1281742\\Akib-1281742.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T12:12:24.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Program.cs",
+              "RelativeDocumentMoniker": "Akib-1281742\\Program.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Program.cs",
+              "RelativeToolTip": "Akib-1281742\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:57:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DITest2.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Tests\\DITest2.cs",
+              "RelativeDocumentMoniker": "Akib-1281742\\Tests\\DITest2.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Tests\\DITest2.cs",
+              "RelativeToolTip": "Akib-1281742\\Tests\\DITest2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:56:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DITest1.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Tests\\DITest1.cs",
+              "RelativeDocumentMoniker": "Akib-1281742\\Tests\\DITest1.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\ToSend\\1281742\\Akib-1281742\\Tests\\DITest1.cs",
+              "RelativeToolTip": "Akib-1281742\\Tests\\DITest1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:56:41.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

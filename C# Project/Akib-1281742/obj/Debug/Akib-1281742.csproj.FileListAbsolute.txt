@@ -1,0 +1,21 @@
+D:\ASP.NET\C# practice hw\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.exe.config
+D:\ASP.NET\C# practice hw\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.exe
+D:\ASP.NET\C# practice hw\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.pdb
+D:\ASP.NET\C# practice hw\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.csproj.AssemblyReference.cache
+D:\ASP.NET\C# practice hw\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.csproj.CoreCompileInputs.cache
+D:\ASP.NET\C# practice hw\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.exe
+D:\ASP.NET\C# practice hw\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.pdb
+D:\1281742 Class\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.exe.config
+D:\1281742 Class\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.exe
+D:\1281742 Class\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.pdb
+D:\1281742 Class\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.csproj.AssemblyReference.cache
+D:\1281742 Class\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.csproj.CoreCompileInputs.cache
+D:\1281742 Class\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.exe
+D:\1281742 Class\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.pdb
+D:\R59\M3\Projects\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.exe.config
+D:\R59\M3\Projects\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.exe
+D:\R59\M3\Projects\Akib-1281742\Akib-1281742\bin\Debug\Akib-1281742.pdb
+D:\R59\M3\Projects\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.csproj.AssemblyReference.cache
+D:\R59\M3\Projects\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.csproj.CoreCompileInputs.cache
+D:\R59\M3\Projects\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.exe
+D:\R59\M3\Projects\Akib-1281742\Akib-1281742\obj\Debug\Akib-1281742.pdb
